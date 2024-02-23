@@ -1,0 +1,14 @@
+{
+  "name": "local-override-utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startwork": "node index.js"
+  },
+  "author": "Vikash maskhare",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.12"
+  }
+}
